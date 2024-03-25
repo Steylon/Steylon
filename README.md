@@ -1,7 +1,6 @@
 
 ### 🟣 Olá eu sou o Stey
 [![Linkdin](https://img.shields.io/badge/LinkedIn-A020F0?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![MacOs](https://img.shields.io/badge/mac%20os-A020F0?style=for-the-badge&logo=apple&logoColor=white)](#)
 [![Instagram](https://img.shields.io/badge/Instagram-A020F0?style=for-the-badge&logo=instagram&logoColor=white)](#)
 
 
