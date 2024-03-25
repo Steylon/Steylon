@@ -18,4 +18,3 @@
 Atualmente estudando sobre Ren'Py
 <br>
 
-## E-mail para contato: steylon.jogos@gmail.com
