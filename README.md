@@ -1,16 +1,21 @@
-### Hi there 👋
 
-<!--
-**Steylon/Steylon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### 🟣 Olá eu sou o Stey
+[![Linkdin](https://img.shields.io/badge/LinkedIn-A020F0?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![MacOs](https://img.shields.io/badge/mac%20os-A020F0?style=for-the-badge&logo=apple&logoColor=white)](#)
+[![Instagram](https://img.shields.io/badge/Instagram-A020F0?style=for-the-badge&logo=instagram&logoColor=white)](#)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Stey GitHub stats](https://github-readme-stats.vercel.app/api?username=Steylon&show_icons=true&theme=tokyonight)
+
+## Tecnologias
+
+<div>
+  <img  align="center" src="https://img.shields.io/badge/HTML5-A020F0?style=for-the-badge&logo=html5&logoColor=ffffff" alt="html5">
+   <img  align="center" src="https://img.shields.io/badge/CSS3-A020F0?style=for-the-badge&logo=css3&logoColor=ffffff" alt="css">
+    <img  align="center" src="https://img.shields.io/badge/JavaScript-A020F0?style=for-the-badge&logo=javascript&logoColor=ffffff" alt="js">
+</div>
+<br>
+Atualmente estudando sobre Ren'Py
+<br>
+
+## E-mail para contato: steylon.jogos@gmail.com
